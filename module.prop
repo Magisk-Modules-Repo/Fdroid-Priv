@@ -1,7 +1,9 @@
-id=template
-name=Template Module
-version=v1
-versionCode=1
-author=topjohnwu
-description=A short description
-template=3
+id=Fdroid-Priv
+name=F-Droid Privileged Extension
+version=4-8-2017
+versionCode=4
+author=Ryaniskira
+description=installs F-Droid Privileged Extension systemlessly
+support=http://www.fdroid.org
+donate=http://topjohnwu.github.io/donate
+cacheModule=false

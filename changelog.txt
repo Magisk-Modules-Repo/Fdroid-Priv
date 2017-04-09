@@ -1,0 +1,21 @@
+# F-Droid Privileged Extension installer
+This an unoffical F-Droid Privileged Extension installer for Magisk. This is a continuation of XDA user PunchyStick's extension so the original credits go to him.
+
+v1
+    - Private release
+    - Privileged Extension 0.1
+    - Based directly on PunchyStick's extension
+    
+
+v2
+    - Private release
+    - Privileged Extension 0.2
+    
+v3
+    - Private release
+    - Privileged Extension 0.2.2
+    
+v4
+    - First public release
+    - Privileged Extension 0.2.3
+   
