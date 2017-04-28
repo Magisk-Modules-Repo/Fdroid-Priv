@@ -16,37 +16,40 @@ Known Issues:
 
 ---
 
-Changelog:
+### Changelog:
 
-v1
+(ALWAYS read the changelog please)
 
-Private release
+#### v1
 
-Privileged Extension 0.1
+>Private release
 
-Based directly on PunchyStick's extension
+>Privileged Extension 0.1
+
+>Based directly on PunchyStick's extension
 
 
 
-v2
+#### v2
 
-Private release
-Privileged Extension 0.2
+>Private release
 
-v3
+>Privileged Extension 0.2
 
-Private release
+#### v3
 
-Privileged Extension 0.2.2
+>Private release
 
-v4
+>Privileged Extension 0.2.2
 
-First public release
+#### v4
 
-Privileged Extension 0.2.3
+>First public release
 
-v5
+>Privileged Extension 0.2.3
 
-If you installed the zip on the XDA thread, please remove that module before installing this version.
+#### v5
 
-Privileged Extension 0.2.4
+>If you installed the zip on the XDA thread, please remove that module before installing this version.
+
+>Privileged Extension 0.2.4
