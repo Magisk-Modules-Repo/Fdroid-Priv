@@ -32,3 +32,7 @@ v3
 v4
 * First public release
 * Privileged Extension 0.2.3
+
+v5
+* If you installed the zip on the XDA thread, please remove that module before installing this version.
+* Privileged Extension 0.2.4
