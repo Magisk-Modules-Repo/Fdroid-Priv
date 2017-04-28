@@ -19,23 +19,35 @@ Known Issues:
 Changelog:
 
 v1
+
 - Private release
+
 - Privileged Extension 0.1
+
 - Based directly on PunchyStick's extension
 
 
+
 v2
+
 - Private release
+
 - Privileged Extension 0.2
 
 v3
+
 - Private release
+
 - Privileged Extension 0.2.2
 
 v4
+
 - First public release
+
 - Privileged Extension 0.2.3
 
 v5
+
 - If you installed the zip on the XDA thread, please remove that module before installing this version.
+
 - Privileged Extension 0.2.4
