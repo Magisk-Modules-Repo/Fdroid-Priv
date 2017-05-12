@@ -53,3 +53,7 @@ Known Issues:
 >If you installed the zip on the XDA thread, please remove that module before installing this version.
 
 >Privileged Extension 0.2.4
+
+#### v6
+
+>Privileged Extension 0.2.5
