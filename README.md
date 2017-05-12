@@ -8,11 +8,10 @@ This is an unofficial installer of the F-Droid Privileged Extension. With the po
 
 ---
 
-Known Issues:
+What to know:
 
-* F-Droid will not update the extension (has to be updated via this Magisk module)
-* When F-Droid is installing an app, the download notification will remain even after the app has installed. You can simply tap "cancel" on the notification to dismiss it.
-* Both of these issues are due to the extension not officially being supported on Android 5.1+. So I can't do anything until F-Droid supports 5.1+ officially.
+* Please make sure you're running at least F-Droid 0.103
+* Disable auto app updates from within F-Droid. F-Droid Privileged Extension will automatically update and succeed, and I don't know how this will affect SafetyNet and/or the Magisk Module. (This is because the extension doesn't update like a normal app by placing updates in the data partition, it overwrites the apk in system directly).
 
 ---
 
@@ -57,3 +56,5 @@ Known Issues:
 #### v6
 
 >Privileged Extension 0.2.5
+
+>Please update F-Droid to version 0.103 if you have not already.
