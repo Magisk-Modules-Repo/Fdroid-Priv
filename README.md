@@ -19,6 +19,37 @@ What to know:
 
 (ALWAYS read the changelog please)
 
+#### v6
+
+>Privileged Extension 0.2.5
+
+>Please update F-Droid to version 0.103 if you have not already.
+
+#### v5
+
+>If you installed the zip on the XDA thread, please remove that module before installing this version.
+
+>Privileged Extension 0.2.4
+
+#### v4
+
+>First public release
+
+>Privileged Extension 0.2.3
+
+#### v3
+
+>Private release
+
+>Privileged Extension 0.2.2
+
+#### v2
+
+>Private release
+
+>Privileged Extension 0.2
+
+
 #### v1
 
 >Private release
@@ -29,32 +60,8 @@ What to know:
 
 
 
-#### v2
 
->Private release
 
->Privileged Extension 0.2
 
-#### v3
 
->Private release
 
->Privileged Extension 0.2.2
-
-#### v4
-
->First public release
-
->Privileged Extension 0.2.3
-
-#### v5
-
->If you installed the zip on the XDA thread, please remove that module before installing this version.
-
->Privileged Extension 0.2.4
-
-#### v6
-
->Privileged Extension 0.2.5
-
->Please update F-Droid to version 0.103 if you have not already.
