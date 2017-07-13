@@ -19,6 +19,10 @@ What to know:
 
 (ALWAYS read the changelog please)
 
+#### v7
+
+>Update to template 4
+
 #### v6
 
 >Privileged Extension 0.2.5
