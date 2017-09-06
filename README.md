@@ -19,6 +19,12 @@ What to know:
 
 (ALWAYS read the changelog please)
 
+#### v8
+
+>Update to template 1400
+
+>Please update to Magisk 14.0 if you have not already
+
 #### v7
 
 >Update to template 4
