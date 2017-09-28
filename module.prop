@@ -1,7 +1,7 @@
 id=Fdroid-Priv
 name=F-Droid Privileged Extension
-version=9-11-2017
-versionCode=9
+version=9-27-2017
+versionCode=10
 author=Ryaniskira
 description=Installs F-Droid Privileged Extension systemlessly
-template=1400
+template=1410
