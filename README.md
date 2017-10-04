@@ -25,7 +25,7 @@ What to know:
 
 >Template 1410
 
->Only install this if you are on Magisk 14.1, a zip for Magisk 14.0 can be found [here](https://www.androidfilehost.com/?fid=889964283620754041)
+>Only install this if you are on Magisk 14.1, a zip for Magisk 14.0 can be found [here](https://forum.xda-developers.com/attachment.php?attachmentid=4292269&d=1507133441)
 
 #### v9
 
