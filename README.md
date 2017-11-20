@@ -19,7 +19,7 @@ What to know:
 
 (ALWAYS read the changelog please)
 
-####v11
+#### v11
 
 > Add Oreo support thanks to [@yochananmarqos](https://forum.xda-developers.com/member.php?u=5124760)
 
