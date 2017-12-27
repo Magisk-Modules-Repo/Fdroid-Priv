@@ -5,3 +5,4 @@ versionCode=12
 author=Ryaniskira
 description=Installs F-Droid Privileged Extension systemlessly
 template=1500
+minMagisk=1500
