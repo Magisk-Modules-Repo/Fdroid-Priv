@@ -11,6 +11,7 @@ This is an unofficial installer of the F-Droid Privileged Extension. With the po
 What to know:
 
 * Please make sure you're running at least F-Droid 0.103
+* Reqiures Magisk 15+
 * Disable auto app updates from within F-Droid. F-Droid Privileged Extension will automatically update and succeed, and I don't know how this will affect SafetyNet and/or the Magisk Module. (This is because the extension doesn't update like a normal app by placing updates in the data partition, it overwrites the apk in system directly).
 
 ---
