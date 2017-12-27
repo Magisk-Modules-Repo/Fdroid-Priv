@@ -19,6 +19,12 @@ What to know:
 
 (ALWAYS read the changelog please)
 
+#### v11
+
+>Template 1500
+
+>Please update to Magisk 15.0 before updating
+
 #### v10
 
 >Privileged Extension 0.2.7
