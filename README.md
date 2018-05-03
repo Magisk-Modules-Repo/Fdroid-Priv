@@ -20,6 +20,12 @@ What to know:
 
 (ALWAYS read the changelog please)
 
+#### 2018-05-03
+
+>Privileged Extension 0.2.8
+
+>Changed changelog format
+
 #### v11
 
 >Template 1500
