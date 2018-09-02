@@ -19,7 +19,7 @@ What to know:
 
 (ALWAYS read the changelog please)
 
-#### 2018-05-03
+#### 2018-09-02
 
 >Updated to Template 1700
 
