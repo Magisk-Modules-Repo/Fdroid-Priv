@@ -22,6 +22,10 @@ What to know:
 
 #### 2018-05-03
 
+>Updated to Template 1700
+
+#### 2018-05-03
+
 >Privileged Extension 0.2.8
 
 >Changed changelog format
