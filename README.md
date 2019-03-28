@@ -19,6 +19,10 @@ What to know:
 
 (ALWAYS read the changelog please)
 
+#### 2019-03-28
+
+>Updated to MagiskInstaller template
+
 #### 2018-09-02
 
 >Updated to Template 1700
