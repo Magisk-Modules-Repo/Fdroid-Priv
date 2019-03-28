@@ -22,6 +22,8 @@ What to know:
 #### 2019-03-28
 
 >Updated to MagiskInstaller template
+>Updated to Privileged Extension 0.2.9
+>Tidy up changelog
 
 #### 2018-09-02
 
@@ -29,7 +31,7 @@ What to know:
 
 #### 2018-05-03
 
->Privileged Extension 0.2.8
+>Updated to Privileged Extension 0.2.8
 
 >Changed changelog format
 
@@ -41,29 +43,29 @@ What to know:
 
 #### v10
 
->Privileged Extension 0.2.7
+>Updated to Privileged Extension 0.2.7
 
->Template 1410
+>Updated to Template 1410
 
 >Only install this if you are on Magisk 14.1, a zip for Magisk 14.0 can be found [here](https://www.androidfilehost.com/?fid=745849072291676800)
 
 #### v9
 
->Privileged Extension 0.2.6
+>Updated to Privileged Extension 0.2.6
 
 #### v8
 
->Template 1400
+>Updated to Template 1400
 
 >Please update to Magisk 14.0 if you have not already
 
 #### v7
 
->Update to template 4
+>Updated to Update to template 4
 
 #### v6
 
->Privileged Extension 0.2.5
+>Updated to Privileged Extension 0.2.5
 
 >Please update F-Droid to version 0.103 if you have not already.
 
