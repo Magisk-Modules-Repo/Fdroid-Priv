@@ -22,7 +22,9 @@ What to know:
 #### 2019-03-28
 
 >Updated to MagiskInstaller template
+
 >Updated to Privileged Extension 0.2.9
+
 >Tidy up changelog
 
 #### 2018-09-02
