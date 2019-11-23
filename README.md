@@ -19,6 +19,10 @@ What to know:
 
 (ALWAYS read the changelog please)
 
+#### 2019-11-28
+
+>Updated to Privileged Extension 0.2.11
+
 #### 2019-03-28
 
 >Updated to MagiskInstaller template
