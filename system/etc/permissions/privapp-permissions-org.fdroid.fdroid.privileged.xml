@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <permissions>
-  <privapp-permissions package="org.fdroid.fdroid.privileged">
+  <privapp-permissions package="eu.bubu1.privext">
     <permission name="android.permission.INSTALL_PACKAGES"/>
     <permission name="android.permission.DELETE_PACKAGES"/>
   </privapp-permissions>
