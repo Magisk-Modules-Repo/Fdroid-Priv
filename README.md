@@ -1,4 +1,4 @@
-# F-Droid Privileged Extension installer
+# F-Droid Classic Privileged Extension installer
 
 ![Magisk](http://i.imgur.com/WA4LBkF.png)
 
