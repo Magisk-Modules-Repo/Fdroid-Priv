@@ -1,16 +1,14 @@
-# F-Droid Privileged Extension installer
+# F-Droid Classic Privileged Extension installer
 
 ![Magisk](http://i.imgur.com/WA4LBkF.png)
 
-This is an unofficial installer of the F-Droid Privileged Extension. With the power of Magisk, this is done systemlessly.
-
-[XDA](https://forum.xda-developers.com/apps/magisk/module-f-droid-privileged-extension-t3587068#post71796001)
+This is an unofficial installer of the F-Droid Classic Privileged Extension. With the power of Magisk, this is done systemlessly.
 
 ---
 
 What to know:
 
-* Please make sure you're running at least F-Droid 0.103
+* Please make sure you're running at least F-Droid 0.103 or F-Droid Classic 1.0
 * Reqiures Magisk 17+
 
 ---
@@ -19,6 +17,8 @@ What to know:
 
 (ALWAYS read the changelog please)
 
+#### 202-12-24 
+>Updated to Privext Classic 0.30
 #### 2019-11-28
 
 >Updated to Privileged Extension 0.2.11
