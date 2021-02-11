@@ -1,6 +1,6 @@
-id=Fdroid-Classic-Priv
-name=F-Droid Classic Privileged Extension
-version=2020-12-9
-versionCode=20
-author=daemonspudguy
+id=Fdroid-Priv
+name=F-Droid Privileged Extension
+version=2019-11-23
+versionCode=18
+author=Ryaniskira
 description=Installs F-Droid Privileged Extension systemlessly
