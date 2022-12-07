@@ -11,7 +11,7 @@ This is an unofficial installer of the F-Droid Privileged Extension. With the po
 What to know:
 
 * Please make sure you're running at least F-Droid 0.103
-* Reqiures Magisk 17+
+* Requires Magisk 17+
 * If running Android 11+, I suggest using [Aurora Droid](https://f-droid.org/en/packages/com.aurora.adroid/) and [Aurora Services](https://github.com/whyorean/AuroraServices). F-Droid does not seem interested in updating their installer extension, and I will of course update this module when F-Droid updates their extension. 
 ---
 
